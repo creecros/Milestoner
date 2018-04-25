@@ -4,8 +4,6 @@ Kanboard Tool for calculating subtask dates and utilizing API to add to tasks.
 ## Windows Version
 ![image](https://user-images.githubusercontent.com/26339368/39251643-cfd652d6-4871-11e8-9004-c002720700f6.png)
 
-![image](https://user-images.githubusercontent.com/26339368/39251643-cfd652d6-4871-11e8-9004-c002720700f6.png)
-
 Settings>Task/Steps Setup...
 -------
 ![image](https://user-images.githubusercontent.com/26339368/39252191-1c342d3c-4873-11e8-8e40-bd52bf444c3e.png)
