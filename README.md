@@ -24,8 +24,7 @@ Admin>Update User List
 
 Calculate
 ------
-![image](https://user-images.githubusercontent.com/26339368/39252029-b90890c2-4872-11e8-90d5-32d13d71a5e7.png)
-
+![image](https://user-images.githubusercontent.com/26339368/39252260-4965be24-4873-11e8-879b-470a62f55473.png)
 
 Calculate>Admin>Send to Task
 ------
