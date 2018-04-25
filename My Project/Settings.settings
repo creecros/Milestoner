@@ -1,0 +1,215 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="task_duration" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="task_depend" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="task_list" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;Subtask&lt;/string&gt;
+  &lt;string&gt;Subtask&lt;/string&gt;
+  &lt;string&gt;Subtask&lt;/string&gt;
+  &lt;string&gt;Subtask&lt;/string&gt;
+  &lt;string&gt;Subtask&lt;/string&gt;
+  &lt;string&gt;Subtask&lt;/string&gt;
+  &lt;string&gt;Subtask&lt;/string&gt;
+  &lt;string&gt;Subtask&lt;/string&gt;
+  &lt;string&gt;Subtask&lt;/string&gt;
+  &lt;string&gt;Subtask&lt;/string&gt;
+  &lt;string&gt;Subtask&lt;/string&gt;
+  &lt;string&gt;Subtask&lt;/string&gt;
+  &lt;string&gt;Subtask&lt;/string&gt;
+  &lt;string&gt;Subtask&lt;/string&gt;
+  &lt;string&gt;Subtask&lt;/string&gt;
+  &lt;string&gt;Subtask&lt;/string&gt;
+  &lt;string&gt;Subtask&lt;/string&gt;
+  &lt;string&gt;Subtask&lt;/string&gt;
+  &lt;string&gt;Subtask&lt;/string&gt;
+  &lt;string&gt;Subtask&lt;/string&gt;
+  &lt;string&gt;Subtask&lt;/string&gt;
+  &lt;string&gt;Subtask&lt;/string&gt;
+  &lt;string&gt;Subtask&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="task_list_default" Type="System.Collections.Specialized.StringCollection" Scope="Application">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;Subtask&lt;/string&gt;
+  &lt;string&gt;Subtask&lt;/string&gt;
+  &lt;string&gt;Subtask&lt;/string&gt;
+  &lt;string&gt;Subtask&lt;/string&gt;
+  &lt;string&gt;Subtask&lt;/string&gt;
+  &lt;string&gt;Subtask&lt;/string&gt;
+  &lt;string&gt;Subtask&lt;/string&gt;
+  &lt;string&gt;Subtask&lt;/string&gt;
+  &lt;string&gt;Subtask&lt;/string&gt;
+  &lt;string&gt;Subtask&lt;/string&gt;
+  &lt;string&gt;Subtask&lt;/string&gt;
+  &lt;string&gt;Subtask&lt;/string&gt;
+  &lt;string&gt;Subtask&lt;/string&gt;
+  &lt;string&gt;Subtask&lt;/string&gt;
+  &lt;string&gt;Subtask&lt;/string&gt;
+  &lt;string&gt;Subtask&lt;/string&gt;
+  &lt;string&gt;Subtask&lt;/string&gt;
+  &lt;string&gt;Subtask&lt;/string&gt;
+  &lt;string&gt;Subtask&lt;/string&gt;
+  &lt;string&gt;Subtask&lt;/string&gt;
+  &lt;string&gt;Subtask&lt;/string&gt;
+  &lt;string&gt;Subtask&lt;/string&gt;
+  &lt;string&gt;Subtask&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="task_depend_default" Type="System.Collections.Specialized.StringCollection" Scope="Application">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;2&lt;/string&gt;
+  &lt;string&gt;3&lt;/string&gt;
+  &lt;string&gt;4&lt;/string&gt;
+  &lt;string&gt;5&lt;/string&gt;
+  &lt;string&gt;6&lt;/string&gt;
+  &lt;string&gt;7&lt;/string&gt;
+  &lt;string&gt;8&lt;/string&gt;
+  &lt;string&gt;9&lt;/string&gt;
+  &lt;string&gt;10&lt;/string&gt;
+  &lt;string&gt;11&lt;/string&gt;
+  &lt;string&gt;12&lt;/string&gt;
+  &lt;string&gt;13&lt;/string&gt;
+  &lt;string&gt;14&lt;/string&gt;
+  &lt;string&gt;15&lt;/string&gt;
+  &lt;string&gt;16&lt;/string&gt;
+  &lt;string&gt;17&lt;/string&gt;
+  &lt;string&gt;18&lt;/string&gt;
+  &lt;string&gt;19&lt;/string&gt;
+  &lt;string&gt;20&lt;/string&gt;
+  &lt;string&gt;21&lt;/string&gt;
+  &lt;string&gt;22&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="task_duration_default" Type="System.Collections.Specialized.StringCollection" Scope="Application">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="users_list" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;admin&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="task_users" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;admin&lt;/string&gt;
+  &lt;string&gt;admin&lt;/string&gt;
+  &lt;string&gt;admin&lt;/string&gt;
+  &lt;string&gt;admin&lt;/string&gt;
+  &lt;string&gt;admin&lt;/string&gt;
+  &lt;string&gt;admin&lt;/string&gt;
+  &lt;string&gt;admin&lt;/string&gt;
+  &lt;string&gt;admin&lt;/string&gt;
+  &lt;string&gt;admin&lt;/string&gt;
+  &lt;string&gt;admin&lt;/string&gt;
+  &lt;string&gt;admin&lt;/string&gt;
+  &lt;string&gt;admin&lt;/string&gt;
+  &lt;string&gt;admin&lt;/string&gt;
+  &lt;string&gt;admin&lt;/string&gt;
+  &lt;string&gt;admin&lt;/string&gt;
+  &lt;string&gt;admin&lt;/string&gt;
+  &lt;string&gt;admin&lt;/string&gt;
+  &lt;string&gt;admin&lt;/string&gt;
+  &lt;string&gt;admin&lt;/string&gt;
+  &lt;string&gt;admin&lt;/string&gt;
+  &lt;string&gt;admin&lt;/string&gt;
+  &lt;string&gt;admin&lt;/string&gt;
+  &lt;string&gt;admin&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="username" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="password" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="webhook" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
